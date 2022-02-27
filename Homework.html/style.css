@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(https://www.solofondos.com/wp-content/uploads/2021/03/84248.png);
+    background-size: cover;
+}
+div,
+#thirdDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    flex-direction: column;
+}
+h1 {
+    color: lightseagreen
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 400px;
+    border: 10px solid skyblue;
+    background-color: teal;
+    padding: 50px;
+    position: absolute;
+    margin-left: 30%;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+ul {
+    padding-left: 0;
+}
+li {
+    list-style-type: none;
+    padding-bottom: 25px;
+}
