@@ -160,3 +160,49 @@ body {
   background-color: #EDEDED;
 }
 
+/* *Experience part */
+.experience-part {
+  position: absolute;
+  width: 931px;
+  height: 37px;
+  left: 148px;
+  top: 1051px;
+  border-bottom: 2px solid #38C2AA;
+  text-align: center;
+  line-height: 40px;
+  font-size: 30px;
+  font-weight: 600;
+  font-style: italic;
+  color: rgba(13, 70, 60, 1);
+}
+.experience-date {
+  position: absolute;
+  width: 246px;
+  height: 436px;
+  left: 23px;
+  top: 70px;
+}
+.experience-date ul {
+  font-size: 15px;
+  list-style-type: none;
+  padding: 0;
+  text-align: left;
+}
+.experience-date li {
+  border-bottom: 2px solid #38C2AA;
+}
+.experience-info {
+  position: absolute;
+  width: 636px;
+  height: 436px;
+  left: 273px;
+  top: 70px;
+}
+.experience-info ul {
+  padding: 0px 30px;
+  color: black;
+  text-align:left;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+}
